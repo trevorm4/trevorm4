@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @trevorm4. I currently am a Software Engineer at Meta working on security for payments & PCI data storage
+- 👋 Hi, I’m Trevor. I currently am a Software Engineer at Meta working on security for payments & PCI data storage
 - 👀 I’m interested in systems programming, security, and statistics. I also like working on open source for video game tooling
 - 🌱 I’m currently learning React/Typescript
 - 📫 Email me at tmoyer43@yahoo.com or add me on Discord @ Trevor#9816 for all inquiries
